@@ -87,15 +87,15 @@ header, footer {
 }
 
 .main-section {
-    background-color: red; /* HSLA background color */
+    background-color: orange; /* HSLA background color */
 }
 
 #absolute-path-image {
-    background-color: hsla(0, 100%, 50%, 0.3); /* HSLA background color */
+    background-color: red
 }
 
 #relative-path-image {
-    background-color: hsla(0, 100%, 50%, 0.3); /* HSLA background color */
+    background-color: red
 }
 
 #media{
